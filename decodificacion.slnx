@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="decodificacion/decodificacion.vcxproj" Id="7d305605-77a1-4f99-8745-8cba3753a73d" />
+</Solution>
